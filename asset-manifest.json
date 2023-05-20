@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fetchinreact/static/css/main.fbe11c87.css",
+    "main.js": "/Fetchinreact/static/js/main.a3168c35.js",
+    "index.html": "/Fetchinreact/index.html",
+    "main.fbe11c87.css.map": "/Fetchinreact/static/css/main.fbe11c87.css.map",
+    "main.a3168c35.js.map": "/Fetchinreact/static/js/main.a3168c35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe11c87.css",
+    "static/js/main.a3168c35.js"
+  ]
+}
