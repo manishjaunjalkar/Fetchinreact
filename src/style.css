@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 20px 40px;
+    font-size: 20px;
+}
+#symbol{
+    padding: 0 5rem;
+}
+table{
+    width: 95%;
+    border-collapse: collapse;
+    margin: 40px auto;
+    
+  }
+
+  tr{
+    border-bottom: 1px solid white;
+    height: 80px;
+   }
+  
+
+
